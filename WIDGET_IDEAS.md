@@ -6,3 +6,5 @@
 - Donation Widget – for nonprofits, churches, or small community groups.
 - Testimonials / Reviews Carousel – automatically pulls reviews.
 - Simple digital business card. Kind of a simple one page web page that gives a teaser about your business. Including opening times if applicable.
+
+design: https://lovable.dev/projects/e99b53f6-cdb8-4f01-a4d6-77d91215a04c
